@@ -1,4 +1,4 @@
-# shitpasswordmanager
+# Shit password manager
 The most garbage password manager you'll ever see
 
 
@@ -6,4 +6,4 @@ The most garbage password manager you'll ever see
 
 Well this is the place for you
 
-A rarely maintained project by a person who hasn't learnt anything and is truly stupid 😀
+A never maintained project by a person who hasn't learnt anything and is truly stupid 😀
