@@ -6,4 +6,4 @@ The most garbage password manager you'll ever see
 
 Well this is the place for you
 
-A never maintained project by a person who hasn't learnt anything and is truly stupid 😀
+A never maintained project by a person who's main qualification is making a neovim config
